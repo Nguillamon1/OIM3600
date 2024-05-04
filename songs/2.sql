@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS song_count FROM songs;
